@@ -3,16 +3,17 @@
 
 ---
 
-I'm currently in my **4th semester of Bachelor's in Software Engineering** at the University of Haripur. 
+I'm currently in my **5th semester of Bachelor's in Software Engineering** at the University of Haripur. 
 I enjoy building digital solutions, exploring modern technologies, and learning new skills every day.
 
 ---
 
 ### Skills & Technologies:
-- Frontend Development: HTML, CSS, JavaScript, WordPress  
-- Programming: Python, C++  
+- Frontend Development: HTML, CSS, JavaScript, WordPress 
+- Programming: Python, C++
+- Data Analytics: Excel,Power Bi 
 - Database: MySQL  
-- Learning Areas: Object-Oriented Programming (OOP), Web Development  
+- Learning Areas: Object-Oriented Programming (OOP),Machine Learning, Web Development 
 
 ---
 
