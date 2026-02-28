@@ -3,7 +3,7 @@
 
 ---
 
-I'm currently in my **5th semester of Bachelor's in Software Engineering** at the University of Haripur. 
+I'm currently in my **6th semester of Bachelor's in Software Engineering** at the University of Haripur. 
 I enjoy building digital solutions, exploring modern technologies, and learning new skills every day.
 
 ---
