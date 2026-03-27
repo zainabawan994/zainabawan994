@@ -1,5 +1,5 @@
 ### Hi there, I'm Zainab Bibi  
-#### Software Engineering Student | Passionate Learner | Growing in Web Development, Backend, and Machine Learning
+#### Software Engineering Student | Passionate Learner | Growing in Machine Learning and Data Science ,Web Development
 
 ---
 
@@ -11,8 +11,8 @@ I enjoy building digital solutions, exploring modern technologies, and learning 
 ### Skills & Technologies:
 - Frontend Development: HTML, CSS, JavaScript, WordPress 
 - Programming: Python, C++
-- Data Analytics: Excel,Power Bi 
-- Database: MySQL  
+- Data Analytics: Excel , Power Bi 
+- Database: MySQL , PostgreSQL
 - Learning Areas: Object-Oriented Programming (OOP),Machine Learning, Web Development 
 
 ---
