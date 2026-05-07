@@ -92,30 +92,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&border_radius=20"/>
-
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&border_radius=20"/>
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&border_radius=20"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -139,7 +115,17 @@
 </div>
 
 ---
+# 🐍 Contribution Activity
 
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zainabawan994/zainabawan994/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+
+</div>
+
+---
 # 💬 Ask Me About
 
 <div align="center">
