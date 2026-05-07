@@ -100,15 +100,15 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/zainab-bibi-b08810312/?_l=en_US">
+<a href="https://www.linkedin.com/in/zainab-bibi-b08810312?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/zainab_bibi_12?igsh=ZzZ3eXV5amczM3Fs">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://www.facebook.com/share/1DLYEsmeX4/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -116,15 +116,6 @@
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-![snake gif](https://github.com/zainabawan994/zainabawan994/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 # 💬 Ask Me About
 
 <div align="center">
