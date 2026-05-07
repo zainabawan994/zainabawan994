@@ -115,13 +115,12 @@
 </div>
 
 ---
-# 🐍 Contribution Activity
 
 # 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zainabawan994/zainabawan994/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+![snake gif](https://github.com/zainabawan994/zainabawan994/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
