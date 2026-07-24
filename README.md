@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Zainab Bibi
+# Hi, I'm Zainab Bibi
+
+<p align="center">
+  <img src="./assest/cover.jpg" alt="GitHub Banner" width="100%">
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Machine+Learning+Enthusiast;Frontend+Developer;Data+Analytics+Learner;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG"/>
 
 </div>
 
