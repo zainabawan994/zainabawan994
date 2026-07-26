@@ -121,7 +121,6 @@
 | 🔍 SDLC Failure Detection | Research on using machine learning for software defect prediction. | Python, ML |
 | 🧠 Explainable AI for Software Maintenance | Research using XGBoost with SHAP and LIME for model interpretability. | XGBoost, SHAP, LIME |
 
-> **Tip:** Replace these with GitHub repository links once they are public.
 
 ---
 
